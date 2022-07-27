@@ -1,3 +1,4 @@
+// 3 Valores aleatórios de nota.
 let nota1 = Math.round(Math.random() *10)
 let nota2 = Math.round(Math.random() *10)
 let nota3 = Math.round(Math.random() *10)
